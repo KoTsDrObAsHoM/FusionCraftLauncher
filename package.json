@@ -1,6 +1,6 @@
 {
     "name": "fusion-launcher-app",
-    "version": "0.1.2",
+    "version": "0.0.1",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
@@ -95,7 +95,7 @@
                 "provider": "github",
                 "releaseType": "release",
                 "owner": "KoTsDrObAsHoM",
-                "repo": "FusionCraftLauncher"
+                "repo": "FusionCraftLauncher/tree/dev"
             }
         ],
         "directories": {
