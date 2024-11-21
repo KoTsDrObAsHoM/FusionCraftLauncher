@@ -88,13 +88,13 @@
         }
     },
     "build": {
-        "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "appId": "ru.fusioncraft.launcher",
+        "productName": "Fusion Craft Launcher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "TheIhori",
                 "repo": "Launcher"
             }
         ],
