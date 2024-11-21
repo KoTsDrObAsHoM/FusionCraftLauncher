@@ -1,6 +1,6 @@
 {
     "name": "fusion-launcher-app",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
