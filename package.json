@@ -1,5 +1,5 @@
 {
-    "name": "FusionCraftLaunchet",
+    "name": "aurora-launcher-app",
     "version": "0.0.6",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
