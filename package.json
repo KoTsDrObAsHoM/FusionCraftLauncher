@@ -21,7 +21,6 @@
 },
 "repository": {
 "type": "git",
-@@ -33,51 +36,93 @@
 },
 "homepage": "https://github.com/AuroraTeam/Launcher#readme",
 "devDependencies": {
