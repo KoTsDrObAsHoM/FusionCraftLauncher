@@ -1,6 +1,6 @@
 {
-    "name": "aurora-launcher-app",
-    "version": "0.0.7",
+    "name": "fusion-launcher-app",
+    "version": "0.0.8",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
