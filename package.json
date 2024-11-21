@@ -95,7 +95,7 @@
                 "provider": "github",
                 "releaseType": "release",
                 "owner": "KoTsDrObAsHoM",
-                "repo": "FusionCraftLauncher"
+                "repo": "FusionCraftLauncher/tree/dev"
             }
         ],
         "directories": {
