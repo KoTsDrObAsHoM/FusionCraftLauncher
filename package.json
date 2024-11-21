@@ -95,7 +95,7 @@
                 "provider": "github",
                 "releaseType": "release",
                 "owner": "TheIhori",
-                "repo": "Launcher"
+                "repo": "FusionCraftLauncher"
             }
         ],
         "directories": {
