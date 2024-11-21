@@ -20,7 +20,7 @@
         "test": "vitest"
 },
 "repository": {
-"type": "git",
+"type": "git"
 },
 "homepage": "https://github.com/AuroraTeam/Launcher#readme",
 "devDependencies": {
