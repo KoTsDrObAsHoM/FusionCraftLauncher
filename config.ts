@@ -2,7 +2,6 @@ import publicKey from './public.pem?raw';
 
 export const window = {
 width: 900,
-export const window = {
 resizable: false,
 maximizable: false,
 fullscreenable: false,
