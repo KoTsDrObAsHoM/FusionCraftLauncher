@@ -9,8 +9,8 @@ fullscreenable: false,
 };
 
 export const api = {
-ws: 'ws://127.0.0.1:1370/ws',
-web: 'http://127.0.0.1:1370',
+ws: 'ws://62.122.242.127:1370/ws',
+web: 'http://62.122.242.127:1370',
     publicKey,
 };
 
