@@ -76,7 +76,6 @@ export default function Login() {
             </p>
             <form onSubmit={auth}>
                 <input type="text" placeholder="Логин" name="login" />
-                <input type="password" placeholder="Пароль" name="password" />
                 <button>Войти</button>
                 <label className={classes.autoLogin}>
                     <input 
