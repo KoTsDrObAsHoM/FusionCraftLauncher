@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 import { ServerButton } from '../../components/ServerButton';
-import SkinView from '../../components/SkinView';
+
 import { useTitlebar } from '../../components/TitleBar/hooks';
 import classes from './index.module.sass';
 
@@ -34,9 +34,9 @@ export default function ServersList() {
 
     return (
         <div className={classes.window}>
-            <div className={classes.skinView}>
+            {/*<div className={classes.skinView}>
                 <SkinView />
-            </div>
+            </div>*/}
             <div className={classes.serverList}>
                 {servers.map((server, i) => (
                     <ServerButton

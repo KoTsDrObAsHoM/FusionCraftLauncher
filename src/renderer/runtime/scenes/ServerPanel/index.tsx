@@ -94,18 +94,6 @@ export default function ServerPanel() {
         <div className={classes.window}>
             <div className={classes.info}>
                 <div className={classes.title}>{selectedServer?.title}</div>
-                <div className={classes.status}>
-                    <div className={classes.gamers}>
-                        Игроков
-                        <br />
-                        онлайн
-                    </div>
-                    <div className={classes.line}></div>
-                    <div className={classes.count}>
-                        {players.online}
-                        <div className={classes.total}>из {players.max}</div>
-                    </div>
-                </div>
             </div>
             <div className={classes.content}>
                 <If state={showProgress}>
