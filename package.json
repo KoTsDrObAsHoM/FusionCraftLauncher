@@ -1,6 +1,6 @@
 {
     "name": "aurora-launcher-app",
-    "version": "0.1.2",
+    "version": "0.1.3",
 "description": "Fusion Craft Launcher",
     "main": "out/main/index-obf.loader.js",
 "private": true,
